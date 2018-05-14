@@ -12662,28 +12662,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bob\\.nuget\\packages\\": {},
+    "C:\\Users\\bob\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bob\\Google Drive\\qac\\research-and-dev\\azure\\c#\\dotnet-web-app\\dotnet-web-app.csproj",
+      "projectUniqueName": "C:\\Users\\bob\\Google Drive\\qac\\research-and-dev\\azure\\c#\\dotnet-web-app\\dotnet-web-app.csproj",
       "projectName": "dotnet-web-app",
-      "projectPath": "C:\\Users\\Bob\\Google Drive\\qac\\research-and-dev\\azure\\c#\\dotnet-web-app\\dotnet-web-app.csproj",
-      "packagesPath": "C:\\Users\\Bob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bob\\Google Drive\\qac\\research-and-dev\\azure\\c#\\dotnet-web-app\\obj\\",
+      "projectPath": "C:\\Users\\bob\\Google Drive\\qac\\research-and-dev\\azure\\c#\\dotnet-web-app\\dotnet-web-app.csproj",
+      "packagesPath": "C:\\Users\\bob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bob\\Google Drive\\qac\\research-and-dev\\azure\\c#\\dotnet-web-app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bob\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\bob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
