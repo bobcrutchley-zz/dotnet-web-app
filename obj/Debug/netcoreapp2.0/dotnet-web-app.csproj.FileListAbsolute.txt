@@ -1,0 +1,11 @@
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\bin\Debug\netcoreapp2.0\dotnet-web-app.deps.json
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\bin\Debug\netcoreapp2.0\dotnet-web-app.runtimeconfig.json
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\bin\Debug\netcoreapp2.0\dotnet-web-app.runtimeconfig.dev.json
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\bin\Debug\netcoreapp2.0\dotnet-web-app.dll
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\bin\Debug\netcoreapp2.0\dotnet-web-app.pdb
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\obj\Debug\netcoreapp2.0\dotnet-web-app.csprojAssemblyReference.cache
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\obj\Debug\netcoreapp2.0\dotnet-web-app.csproj.CoreCompileInputs.cache
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\obj\Debug\netcoreapp2.0\dotnet-web-app.AssemblyInfoInputs.cache
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\obj\Debug\netcoreapp2.0\dotnet-web-app.AssemblyInfo.cs
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\obj\Debug\netcoreapp2.0\dotnet-web-app.dll
+C:\Users\Bob\Google Drive\qac\research-and-dev\azure\c#\dotnet-web-app\obj\Debug\netcoreapp2.0\dotnet-web-app.pdb
